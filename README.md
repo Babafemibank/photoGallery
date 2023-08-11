@@ -23,9 +23,7 @@ Users should be able to:
 - See how the images change as the page is being refreshed.
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://babafemibank.github.io/photoGallery/
 
 ## My process
 
